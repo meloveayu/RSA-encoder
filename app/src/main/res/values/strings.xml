@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RSA-encoder</string>
+    <string name="title">RSA加密解密程序</string>
+    <string name="length_key">请输入密钥长度：</string>
+    <string name="button_apply">提交</string>
+    <string name="text_encry">请输入要加密的数字：</string>
+    <string name="text_decry">请输入要解密的数字：</string>
+    <string name="button_encry">加密</string>
+    <string name="button_decry">解密</string>
+    <string name="encry_result">加密结果：</string>
+    <string name="decry_result">解密结果：</string>
+    <string name="random_one">产生的随机质数A：</string>
+    <string name="random_two">产生的随机质数B：</string>
+    <string name="prime">A、B两数的乘积：</string>
+    <string name="public_key">产生的公钥：</string>
+    <string name="private_key">产生的私钥：</string>
+</resources>
